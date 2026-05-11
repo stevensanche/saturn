@@ -4,6 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+space,Spacecraft,,
 location,Location
 latitude,Latitude
 longitude,Longitude
